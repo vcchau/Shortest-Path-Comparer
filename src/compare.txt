@@ -1,0 +1,73 @@
+-----Dijkstra-----
+
+Austin to Muleshoe
+Nodes searched: 63 | Path Length: 452
+
+Laredo to Haskell
+Nodes searched: 63 | Path Length: 482
+
+Dumas to Corsicana
+Nodes searched: 63 | Path Length: 467
+
+-----Prim-----
+
+Austin to Muleshoe
+Path Length: 501 
+
+
+-----A*-----
+
+--dist--
+
+Austin to Muleshoe
+Nodes searched: 11 | Path Length: 452
+
+Laredo to Haskell
+Nodes searched: 13 | Path Length: 482
+
+Dumas to Corsicana
+Nodes searched: 10 | Path Length: 467
+
+--halfass--
+
+Austin to Muleshoe
+Nodes searched: 37 | Path Length: 452
+
+Laredo to Haskell
+Nodes searched: 25 | Path Length: 482
+
+Dumas to Corsicana
+Nodes searched: 24 | Path Length: 467
+
+--zip--
+
+Austin to Muleshoe
+Nodes searched: 58 | Path Length: 452
+
+Laredo to Haskell
+Nodes searched: 45 | Path Length: 482
+
+Dumas to Corsicana
+Nodes searched: 32 | Path Length: 467
+
+--randombs--
+
+Austin to Muleshoe
+Nodes searched: 44 | Path Length: 452
+
+Laredo to Haskell
+Nodes searched: 29 | Path Length: 482
+
+Dumas to Corsicana
+Nodes searched: 15 | Path Length: 467
+
+--randomlies--
+
+Austin to Muleshoe
+Nodes searched: 39 | Path Length: 452
+
+Laredo to Haskell
+Nodes searched: 29 | Path Length: 482
+
+Dumas to Corsicana
+Nodes searched: 71 | Path Length: 467
