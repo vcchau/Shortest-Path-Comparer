@@ -1,7 +1,6 @@
 /**
  * this class Cons implements a Lisp-like Cons cell
  * 
- * @author  Gordon S. Novak Jr.
  * @version 29 Nov 01; 25 Aug 08; 05 Sep 08; 08 Sep 08; 12 Sep 08; 24 Sep 08
  *          06 Oct 08; 07 Oct 08; 09 Oct 08; 23 Oct 08; 30 Oct 08; 27 Mar 09
  *          06 Aug 10
